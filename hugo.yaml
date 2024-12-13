@@ -1,5 +1,5 @@
 baseURL: "https://whereismytakoyaki.github.io/" # 主站的 URL
-title: whereismytakoyaki?? # 站点标题
+title: whereismytakoyaki # 站点标题
 copyright: "[©2024 whereismytakoyaki](https://whereismytakoyaki.github.io/)" # 网站的版权声明，通常显示在页脚
 theme: PaperMod # 主题
 languageCode: en-us # 语言
@@ -47,7 +47,7 @@ languages:
 params:
   homeInfoParams:
     Title: Puer Apriae
-    Content: This human is still searching for his research interests
+    Content: This human is still searching for his research interests...
 
   # 设置网站的标签页的图标，即 favicon
   assets:
