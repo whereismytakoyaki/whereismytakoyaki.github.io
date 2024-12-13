@@ -46,7 +46,8 @@ languages:
 
 params:
   homeInfoParams:
-    Title: "Siyuan Huang"
+    Title: Siyuan Huang
+    Content: This human is still searching for his research interests
 
   # 设置网站的标签页的图标，即 favicon
   assets:
