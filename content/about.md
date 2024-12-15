@@ -21,8 +21,7 @@ Hey there!
 *Bachelor of Arts (Degree with Honours)*   
 *Melbourne, Australia* | *2024*  
 **Major:** Psychology  
-**Grade:** First Class Honours  
-**Courseworks:** Advanced Design and Data Analysis; Behavioural & Cognitive Neuroscience; Ethics and Evidence-Based Practice/Professional Practice; Models of Psychological Processes
+**First Class Honours**  
 
 &nbsp;
 
@@ -30,7 +29,6 @@ Hey there!
 *Bachelor of Arts*   
 *Melbourne, Australia* | *2022 – 2023*  
 **Major:** Psychology | **Minor:** Japanese Studies  
-**Courseworks:** Biological Psychology; Cognitive Psychology; Computational Behavioural Science; Developmental Psychology; Perception, Memory and Cognition; Personality and Social Psychology; Research Methods for Human Inquiry
 
 &nbsp;
 
