@@ -5,7 +5,7 @@ url: "/about/"
 summary: about
 ---
 
-## Education
+## 📖 Education
 ---
 ### University of Melbourne
 *Bachelor of Arts (Degree with Honours)*   
@@ -28,3 +28,13 @@ summary: about
 *Bachelor of Psychology*  
 *Sydney, Australia* | *2021*  
 **Major:** Psychology | **Minor:** Japanese Studies
+
+&nbsp;
+
+## 🎖 Awards & Grants
+**Dean's Honours List**, University of Melbourne (Top 3%) | *2023*  
+*Bachelor of Arts (Third Year)*
+
+&nbsp;
+
+**Melbourne Welcome Grant**, University of Melbourne (A$4000) | *2022*
