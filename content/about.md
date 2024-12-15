@@ -17,8 +17,8 @@ Hey there!
 
 ## 🗿 Research Interests
 ---
-Cognition
-Computational Modeling
+Cognition  
+Computational Modeling  
 Decision-Making
 
 &nbsp;
