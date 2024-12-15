@@ -21,7 +21,7 @@ Hey there!
 *Bachelor of Arts (Degree with Honours)*   
 *Melbourne, Australia* | *2024*  
 **Major:** Psychology  
-**First Class Honours**  
+**Grade:** First Class Honours  
 
 &nbsp;
 
