@@ -68,4 +68,4 @@ Hey there!
 
 &nbsp;
 
-**→** [**Full CV**](https://drive.google.com/file/d/1ovL94VS7_dHWkRxC7vDCeSOIZrsKJWUg/view?usp=sharing)
+**→** [$\underline{\textbfFull CV}}$](https://drive.google.com/file/d/1ovL94VS7_dHWkRxC7vDCeSOIZrsKJWUg/view?usp=sharing)
