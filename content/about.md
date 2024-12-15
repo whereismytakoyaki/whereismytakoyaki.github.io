@@ -19,7 +19,7 @@ summary: about
 ### University of Melbourne
 *Bachelor of Arts*   
 *Melbourne, Australia* | *2022 – 2023*  
-**Major:** Psychology | **Minor:** Japanese Studies
+**Major:** Psychology | **Minor:** Japanese Studies  
 **Courseworks:** Biological Psychology; Cognitive Psychology; Computational Behavioural Science; Developmental Psychology; Perception, Memory and Cognition; Personality and Social Psychology; Research Methods for Human Inquiry
 
 &nbsp;
@@ -32,9 +32,7 @@ summary: about
 &nbsp;
 
 ## 🎖 Awards & Grants
-**Dean's Honours List**, University of Melbourne (Top 3%) | *2023*  
-*Bachelor of Arts (Third Year)*
+*2023* | **Dean's Honours List**, University of Melbourne (Top 3%)  
+- *Bachelor of Arts (Third Year)*
 
-&nbsp;
-
-**Melbourne Welcome Grant**, University of Melbourne (A$4000) | *2022*
+*2022* | **Melbourne Welcome Grant**, University of Melbourne (A$4000)
