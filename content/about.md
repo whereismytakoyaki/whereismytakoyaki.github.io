@@ -65,3 +65,7 @@ Hey there!
 **Programming:** R, MATLAB, Python  
 **Spoken Languages:** Chinese (Mandarin), English, Japanese  
 **Other Programs/Software:** GitHub, Microsoft Office, LaTex
+
+&nbsp;
+
+[**Full CV**](https://drive.google.com/file/d/1ovL94VS7_dHWkRxC7vDCeSOIZrsKJWUg/view?usp=sharing)
