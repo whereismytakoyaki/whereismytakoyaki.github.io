@@ -4,6 +4,8 @@ layout: "about"
 url: "/about/"
 summary: about
 ---
+![SPK](https://i.postimg.cc/QC9kYm8W/We-Chat-Image-20220904235232.jpg)
+
 ## 🦆 About Me
 ---
 Hey there!
