@@ -5,7 +5,7 @@ url: "/about/"
 summary: about
 ---
 
-![SPK](https://i.postimg.cc/tg6sccWb/simptab-wallpaper-20210812160253.jpg)
+![SPK](https://i.postimg.cc/vHWgXk7d/beer1.jpg)
 
 &nbsp;
 
