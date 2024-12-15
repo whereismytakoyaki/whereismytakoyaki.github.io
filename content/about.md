@@ -15,10 +15,10 @@ Hey there!
 
 &nbsp;
 
-## 🗿 Research Interests
+## 🗿 Interests
 ---
-Cognition  
-Computational Modeling  
+Cognition   
+Computational Modeling   
 Decision-Making
 
 &nbsp;
