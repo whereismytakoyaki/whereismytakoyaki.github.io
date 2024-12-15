@@ -15,6 +15,13 @@ Hey there!
 
 &nbsp;
 
+## 🗿 Research Interests
+  - Cognition
+  - Computational Modeling
+  - Decision-Making
+
+&nbsp;
+
 ## 📖 Education
 ---
 ### University of Melbourne
