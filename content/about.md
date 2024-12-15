@@ -4,6 +4,10 @@ layout: "about"
 url: "/about/"
 summary: about
 ---
+## 🦆 About Me
+Hey there!
+
+&nbsp;
 
 ## 📖 Education
 ---
@@ -31,8 +35,26 @@ summary: about
 
 &nbsp;
 
-## 🎖 Awards & Grants
-*2023* | **Dean's Honours List**, University of Melbourne (Top 3%)  
-- *Bachelor of Arts (Third Year)*
+## 📝 Research Experience
+### University of Melbourne
+*Honours Thesis* | *Advisor: Andrew Perfors* | *Feb – Nov 2024*  
+**Title:** The Influence of Online Cross-Partisan Interactions and Right-Wing Political Trolls on Political Polarization
 
+&nbsp;
+
+### University of Melbourne
+*Capstone Project* | *Advisor: Simon De Deyne* | *Jul – Oct 2023*  
+**Title:** Comparing Semantic Understanding of Concrete and Abstract Concepts in GPT-3.5 and GPT-4: An Evaluation Based on Embodied Cognition Theory
+
+&nbsp;
+
+## 🎖️ Awards & Grants
+*2023* | **Dean's Honours List**, University of Melbourne (Top 3%)  
 *2022* | **Melbourne Welcome Grant**, University of Melbourne (A$4000)
+
+&nbsp;
+
+## Skills
+**Programming:** R, MATLAB, Python  
+**Spoken Languages:** Chinese (Mandarin), English, Japanese  
+**Other Programs/Software:** GitHub, Microsoft Office, LaTex
