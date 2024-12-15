@@ -5,6 +5,7 @@ url: "/about/"
 summary: about
 ---
 ## 🦆 About Me
+---
 Hey there!
 
 &nbsp;
@@ -36,6 +37,7 @@ Hey there!
 &nbsp;
 
 ## 📝 Research Experience
+---
 ### University of Melbourne
 *Honours Thesis* | *Advisor: Andrew Perfors* | *Feb – Nov 2024*  
 **Title:** The Influence of Online Cross-Partisan Interactions and Right-Wing Political Trolls on Political Polarization
@@ -49,12 +51,14 @@ Hey there!
 &nbsp;
 
 ## 🎖️ Awards & Grants
+---
 *2023* | **Dean's Honours List**, University of Melbourne (Top 3%)  
 *2022* | **Melbourne Welcome Grant**, University of Melbourne (A$4000)
 
 &nbsp;
 
 ## 📐 Skills
+---
 **Programming:** R, MATLAB, Python  
 **Spoken Languages:** Chinese (Mandarin), English, Japanese  
 **Other Programs/Software:** GitHub, Microsoft Office, LaTex
