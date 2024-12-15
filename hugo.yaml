@@ -25,7 +25,7 @@ languages:
         # https://gohugo.io/content-management/menus/#define-in-site-configuration
         menus:
          main:
-           - name: Me
+           - name: Home
              pageRef: /
              weight: 4 # 控制在页面上展示的前后顺序
         #    - name: 归档
@@ -40,9 +40,9 @@ languages:
         #    - name: 搜索
         #      pageRef: search/
         #      weight: 20
-        #    - name: 关于
-        #      pageRef: about/
-        #      weight: 21
+           - name: Me
+             pageRef: about/
+             weight: 21
 
 params:
   homeInfoParams:
