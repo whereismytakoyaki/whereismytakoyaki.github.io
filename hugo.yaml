@@ -25,10 +25,10 @@ languages:
         # https://gohugo.io/content-management/menus/#define-in-site-configuration
         menus:
          main:
-           - name: Home
+           - name: HOME
              pageRef: /
              weight: 4 # 控制在页面上展示的前后顺序
-           - name: Archives
+           - name: ARCHIVES
              pageRef: archives/
              weight: 5
         #    - name: 分类
@@ -40,7 +40,7 @@ languages:
         #    - name: 搜索
         #      pageRef: search/
         #      weight: 20
-           - name: Me
+           - name: ABOUT
              pageRef: about/
              weight: 21
 
@@ -67,7 +67,7 @@ params:
   
   homeInfoParams:
     Title: SIYUAN HUANG
-    Content: Hi there! I am Siyuan, or you may call me Spike if you like :) <br> This place is my personal blog + homepage. <br> I write about things I find interesting, and I hope you do too.
+    Content: Hi there! I am Siyuan, or you may call me Spike if you like :) <div> This place contains my personal Blog + Homepage (please see ME). <div> I write about things I find interesting, and I hope you do too. <div> still in development...
   # 设置网站的标签页的图标，即 favicon
   assets:
       favicon: "favicon.png"

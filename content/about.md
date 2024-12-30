@@ -1,5 +1,5 @@
 ---
-title: "Siyuan Huang"
+title: "SIYUAN HUANG"
 layout: "about"
 url: "/about/"
 summary: about
@@ -38,13 +38,6 @@ Machine Learning & Deep Learning
 *Bachelor of Arts*   
 *Melbourne, Australia* | *2022 – 2023*  
 **Major:** Psychology | **Minor:** Japanese Studies  
-
-&nbsp;
-
-### University of Sydney
-*Bachelor of Psychology*  
-*Sydney, Australia* | *2021*  
-**Major:** Psychology | **Minor:** Japanese Studies
 
 &nbsp;
 
