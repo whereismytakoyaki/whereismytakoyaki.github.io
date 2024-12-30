@@ -67,10 +67,7 @@ params:
   
   homeInfoParams:
     Title: SIYUAN HUANG
-    Content: Hi there! This is my personal blog + homepage. 
-    <br>
-    I write about things I find interesting, and I hope you do too.
-
+    Content: Hi there! I am Siyuan, or you may call me Spike if you like :) <br> This place is my personal blog + homepage. <br> I write about things I find interesting, and I hope you do too.
   # 设置网站的标签页的图标，即 favicon
   assets:
       favicon: "favicon.png"
