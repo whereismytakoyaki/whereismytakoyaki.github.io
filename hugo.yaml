@@ -66,8 +66,10 @@ params:
   DateFormat: "2006-01-02" # 这个时间是作者自己写的，只能这样写
   
   homeInfoParams:
-    Title: Puer Apriae
-    Content: This human is still searching for his research interests.
+    Title: SIYUAN HUANG
+    Content: Hi there! This is my personal blog + homepage. 
+    <br>
+    I write about things I find interesting, and I hope you do too.
 
   # 设置网站的标签页的图标，即 favicon
   assets:

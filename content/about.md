@@ -19,7 +19,8 @@ Hey there!
 ---
 Cognition   
 Computational Modeling   
-Decision-Making
+Decision-Making   
+Machine Learning & Deep Learning
 
 &nbsp;
 
